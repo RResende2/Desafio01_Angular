@@ -1,0 +1,11 @@
+.mat-dialog-content {
+    max-width: 300px;
+}
+
+.cancel {
+    color: blue;
+}
+
+.confirm {
+    color: red;
+}

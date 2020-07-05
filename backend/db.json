@@ -3,12 +3,18 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": 5.89,
+      "discount": 50,
+      "discountPrice": 2.945,
+      "description": "Caneta BIC Preta"
     },
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "price": 12000.89,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et condimentum massa. Pellentesque mattis efficitur augue in tempus aeneanLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et condimentum massa. Pellentesque mattis efficitur augue in tempus aenean",
+      "discount": 0,
+      "discountPrice": 12000.89
     },
     {
       "id": 3,
